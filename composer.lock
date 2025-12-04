@@ -2382,7 +2382,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/demo_design_system.git",
-                "reference": "6fdbc5d48f84c67f009d64b323812e9bfc0301a1"
+                "reference": "e207fd0c833db2bcff1e11ae036c29f5690a075e"
             },
             "require": {
                 "drupal/components": "^3@beta",
@@ -2404,8 +2404,8 @@
                     "dev-1.0.x": "1.0.x-dev"
                 },
                 "drupal": {
-                    "version": "1.0.6+1-dev",
-                    "datestamp": "1757364802",
+                    "version": "1.0.7+3-dev",
+                    "datestamp": "1763530043",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
